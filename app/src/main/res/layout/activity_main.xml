@@ -31,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_weight="1"
+        android:contentDescription="@string/postimage"
         tools:srcCompat="@tools:sample/avatars" />
 
     <Button
@@ -39,5 +40,12 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:text="@string/submit" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/logout" />
 
 </LinearLayout>

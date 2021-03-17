@@ -57,6 +57,8 @@ public class LoginActivity extends AppCompatActivity {
                     Log.e(TAG, "Issue with login", e);
                     return;
                 }
+                etUsername.setText("");
+                etPassword.setText("");
                 //if no error signinto main
                 goMainActivity();
             }
