@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=gif6.gif'/>
+<img src='gif6.gif'/>
 
 ---------------------------------------------------
 
